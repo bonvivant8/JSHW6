@@ -1,7 +1,7 @@
-let str='10';
+let str='';
 for (let i=10;i<=20;i++)
 {
-    str=str+','+i;
+    str=str+i+',';
 }
 console.log(str)
 
